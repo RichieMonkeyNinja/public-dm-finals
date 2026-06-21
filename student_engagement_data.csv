@@ -1,0 +1,56 @@
+StudentID,Age,Program,YearOfStudy,AttendanceRate,LMS_LoginFrequency,AssignmentSubmissionRate,AvgScore,ForumParticipation,GeneratedFeedback,EngagementLevel
+S001,19,Computer Science,1,92,28,95,88,12,"Consistently active learner who logs in regularly and submits work on time. Strong forum contributions show genuine interest in peer discussion.",High
+S002,21,Business Administration,2,65,10,70,62,3,"Attendance and login activity are below average, suggesting inconsistent engagement. Encourage more regular check-ins with course materials.",Medium
+S003,23,Data Science,3,40,5,45,50,1,"Low attendance and minimal LMS activity indicate the student is at risk of falling behind. Immediate academic support is recommended.",Low
+S004,20,Mechanical Engineering,2,88,24,90,84,9,"Solid attendance paired with frequent logins reflects steady commitment to coursework. Assignment quality remains consistently high.",High
+S005,22,Psychology,3,55,12,60,58,2,"Engagement metrics show moderate participation with room for improvement in forum activity. Submission timeliness could be more consistent.",Medium
+S006,18,Computer Science,1,30,4,35,42,0,"Very limited interaction with course platform and peers raises concern. Outreach is advised to understand barriers to participation.",Low
+S007,24,Business Administration,4,95,30,98,91,15,"Exceptional engagement across all metrics, including active forum leadership. This student exemplifies self-directed learning.",High
+S008,19,Data Science,1,72,15,75,68,5,"Attendance is reasonably good but digital engagement could be stronger. Regular but light forum activity suggests passive participation.",Medium
+S009,21,Civil Engineering,2,48,8,50,55,2,"Attendance and assignment submission rates are concerning and trending downward. A check-in with an advisor may help identify obstacles.",Low
+S010,20,Psychology,2,90,26,93,87,11,"Strong and consistent engagement with course content and peers. Assignment scores reflect deep understanding of material.",High
+S011,22,Computer Science,3,68,14,72,65,4,"Moderate engagement with occasional gaps in attendance. Forum participation is present but infrequent.",Medium
+S012,25,Mechanical Engineering,4,35,6,40,48,1,"Engagement indicators are low across the board, particularly in assignment completion. Recommend a personalized academic intervention.",Low
+S013,19,Business Administration,1,85,22,88,80,8,"Reliable attendance and timely submissions demonstrate good academic discipline. Could increase forum involvement for richer learning.",High
+S014,23,Data Science,3,58,11,62,59,3,"Engagement is inconsistent, with periods of activity followed by drop-offs. Monitoring trends over the next few weeks is advised.",Medium
+S015,20,Civil Engineering,2,25,3,30,40,0,"Minimal participation across attendance, logins, and submissions signals significant disengagement. Early intervention is strongly recommended.",Low
+S016,21,Psychology,3,93,29,96,89,13,"Highly engaged student with excellent attendance and proactive forum contributions. Performance metrics align well with engagement level.",High
+S017,18,Computer Science,1,70,16,74,66,5,"Engagement sits in a moderate range with steady but unremarkable activity. Encouraging deeper forum interaction may boost outcomes.",Medium
+S018,24,Mechanical Engineering,4,42,7,45,52,1,"Attendance and login frequency are notably low for this stage of study. A targeted support plan could help re-engage the student.",Low
+S019,22,Business Administration,3,87,25,90,83,10,"Consistent attendance and high submission rates point to strong academic motivation. Forum activity adds further evidence of engagement.",High
+S020,19,Data Science,1,63,13,66,61,3,"Engagement is moderate, with submission rates slightly trailing attendance. Light forum use suggests limited peer interaction.",Medium
+S021,20,Civil Engineering,1,38,5,42,46,1,"Low attendance combined with sparse LMS activity raises concern for this early-stage student. Proactive advising is recommended.",Low
+S022,23,Psychology,4,91,27,94,86,12,"Excellent and sustained engagement throughout the term. The student actively contributes to discussions and submits quality work.",High
+S023,21,Computer Science,2,60,12,64,60,2,"Engagement is middling, with attendance better than digital participation. Increasing LMS logins could improve overall standing.",Medium
+S024,22,Mechanical Engineering,3,33,4,38,44,0,"Several engagement indicators are concerning, especially low forum and login activity. Recommend a wellbeing and academic check-in.",Low
+S025,20,Business Administration,2,89,23,91,82,9,"Strong, well-rounded engagement with good balance across attendance, logins, and assignments. A dependable and motivated learner.",High
+S026,19,Data Science,1,57,10,61,57,2,"Participation is inconsistent across the measured period. Encouraging a regular study routine may help stabilize engagement.",Medium
+S027,24,Civil Engineering,4,28,3,32,41,0,"Engagement levels remain critically low across nearly all categories. Immediate outreach is necessary to prevent further disengagement.",Low
+S028,21,Psychology,2,94,31,97,90,14,"Outstanding engagement with frequent logins and active forum leadership. Academic performance closely mirrors this high engagement.",High
+S029,23,Computer Science,3,66,14,70,64,4,"Engagement is moderate with some fluctuation week to week. Assignment submission is fairly reliable despite lighter forum use.",Medium
+S030,18,Mechanical Engineering,1,45,6,48,53,1,"Attendance and submission rates are below expectations for a first-year student. Early academic coaching could be beneficial.",Low
+S031,22,Business Administration,4,86,21,89,81,8,"Good overall engagement with dependable attendance and assignment completion. Forum activity is moderate but present.",High
+S032,20,Data Science,2,52,9,56,56,2,"Engagement shows a downward trend in recent weeks. A conversation about workload or barriers may uncover useful insights.",Medium
+S033,21,Civil Engineering,3,31,4,35,43,0,"Very low engagement across attendance and LMS activity is a strong risk indicator. Recommend prioritizing this student for support.",Low
+S034,19,Psychology,1,90,28,93,85,11,"Consistently high engagement from early in the term, including strong forum involvement. A promising trajectory for academic success.",High
+S035,23,Computer Science,4,69,15,73,67,5,"Engagement is steady but unspectacular, with room to grow in peer interaction. Submission timeliness remains a relative strength.",Medium
+S036,24,Mechanical Engineering,3,36,5,40,47,1,"Engagement metrics suggest the student is disengaging from course activities. A supportive check-in is recommended before it escalates.",Low
+S037,20,Business Administration,1,88,24,92,84,10,"Strong start to the program with excellent attendance and submission habits. Active forum use reflects genuine course interest.",High
+S038,22,Data Science,3,61,12,65,62,3,"Engagement remains in a moderate band with attendance slightly ahead of digital participation. Continued monitoring is advised.",Medium
+S039,21,Civil Engineering,2,29,3,33,42,0,"Engagement indicators are uniformly low, raising significant concern about course persistence. Immediate advising contact is recommended.",Low
+S040,19,Psychology,1,92,27,95,87,13,"Highly engaged and consistent across all tracked metrics. The student's forum contributions show clear depth of understanding.",High
+S041,23,Computer Science,2,64,13,68,63,4,"Engagement is moderate with reasonably consistent attendance and submissions. Forum participation could be more frequent.",Medium
+S042,25,Mechanical Engineering,4,34,4,37,45,1,"Engagement has declined noticeably this term, especially in attendance. Recommend reaching out to discuss any external challenges.",Low
+S043,20,Business Administration,3,85,22,87,80,9,"Reliable engagement with strong assignment completion and decent forum activity. A consistently solid academic performer.",High
+S044,21,Data Science,1,59,11,63,58,2,"Engagement is inconsistent week to week with occasional missed submissions. A structured study schedule may help improve consistency.",Medium
+S045,22,Civil Engineering,3,27,3,30,40,0,"Engagement is critically low across nearly every metric tracked. This student should be flagged for urgent academic support.",Low
+S046,18,Psychology,1,93,29,96,88,12,"Excellent engagement from the outset, with strong attendance and active discussion participation. A model of consistent effort.",High
+S047,24,Computer Science,4,67,15,71,65,5,"Moderate and fairly stable engagement throughout the term. Increasing LMS login frequency could further support learning outcomes.",Medium
+S048,23,Mechanical Engineering,2,39,5,43,49,1,"Attendance and submission rates are persistently low for this point in the program. Recommend a personalized re-engagement plan.",Low
+S049,19,Business Administration,2,91,26,94,86,11,"Consistently strong engagement with good balance across attendance and digital participation. Performance reflects this dedication.",High
+S050,21,Data Science,4,56,10,60,57,3,"Engagement sits at a moderate level with some recent decline in logins. A brief check-in could help identify any emerging issues.",Medium
+S051,22,Civil Engineering,1,32,4,36,44,0,"Engagement remains low across attendance, logins, and submissions for a first-year student. Early support could prevent further decline.",Low
+S052,20,Psychology,3,89,25,92,84,10,"Strong, well-rounded engagement with consistent participation across all measured categories. A dependable and motivated student.",High
+S053,21,Computer Science,1,62,12,66,61,3,"Engagement is moderate, with attendance holding steadier than forum or login activity. Continued observation is recommended.",Medium
+S054,23,Business Administration,3,37,5,41,46,1,"Engagement has weakened over recent weeks, particularly in assignment submissions. Outreach to discuss support options is advised.",Low
+S055,20,Mechanical Engineering,2,87,23,90,82,9,"Good overall engagement with reliable attendance and assignment completion. Forum activity, while moderate, shows genuine participation.",High
