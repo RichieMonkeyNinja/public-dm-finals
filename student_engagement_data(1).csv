@@ -1,0 +1,51 @@
+StudentID,Age,Program,YearOfStudy,AttendanceRate,LMS_LoginFrequency,AssignmentSubmissionRate,AvgScore,ForumParticipation,EngagementLevel
+S001,19,Computer Science,1,92,28,95,88,12,High
+S002,21,Business Administration,2,65,10,70,,3,Medium
+S003,23,Data Science,3,40,5,45,50,,Low
+S004,20,Mechanical Engineering,2,88,,90,84,9,High
+S005,22,Psychology,3,,12,60,58,2,Medium
+S006,18,Computer Science,1,30,4,35,42,0,Low
+S007,24,Business Administration,4,95,30,98,91,15,High
+S008,,Data Science,1,72,15,75,68,5,Medium
+S009,21,Civil Engineering,2,48,8,,55,2,Low
+S010,20,Psychology,2,90,26,93,87,11,High
+S011,22,Computer Science,3,68,14,72,,4,Medium
+S012,25,Mechanical Engineering,,35,6,40,48,1,Low
+S013,19,Business Administration,1,85,22,88,80,,High
+S014,23,Data Science,3,58,11,62,59,3,Medium
+S015,20,Civil Engineering,2,25,3,30,40,0,Low
+S016,21,Psychology,3,93,,96,89,13,High
+S017,18,Computer Science,1,70,16,74,66,5,Medium
+S018,24,Mechanical Engineering,4,,7,45,52,1,Low
+S019,22,Business Administration,3,87,25,90,83,10,High
+S020,19,Data Science,1,63,13,66,61,,Medium
+S021,20,Civil Engineering,1,38,5,42,,1,Low
+S022,23,Psychology,4,91,27,94,86,12,High
+S023,21,Computer Science,2,60,,64,60,2,Medium
+S024,22,Mechanical Engineering,3,33,4,38,44,0,Low
+S025,20,Business Administration,2,89,23,91,82,9,High
+S026,19,Data Science,1,,10,61,57,2,Medium
+S027,24,Civil Engineering,4,28,3,32,41,0,Low
+S028,21,Psychology,2,94,31,97,,14,High
+S029,23,Computer Science,3,66,14,70,64,4,Medium
+S030,18,Mechanical Engineering,1,45,6,48,53,,Low
+S031,22,Business Administration,4,86,21,,81,8,High
+S032,20,Data Science,2,52,9,56,56,2,Medium
+S033,21,Civil Engineering,3,31,,35,43,0,Low
+S034,19,Psychology,1,90,28,93,85,11,High
+S035,23,Computer Science,4,69,15,73,,5,Medium
+S036,24,Mechanical Engineering,3,36,5,40,47,1,Low
+S037,20,,1,88,24,92,84,10,High
+S038,22,Data Science,3,61,12,65,62,3,Medium
+S039,21,Civil Engineering,2,29,3,33,42,0,Low
+S040,19,Psychology,1,92,27,95,87,13,High
+S041,23,Computer Science,2,,13,68,63,4,Medium
+S042,25,Mechanical Engineering,4,34,4,37,45,,Low
+S043,20,Business Administration,3,85,22,87,80,9,High
+S044,21,Data Science,1,59,11,63,,2,Medium
+S045,22,Civil Engineering,3,27,3,30,40,0,Low
+S046,18,Psychology,1,93,,96,88,12,High
+S047,24,Computer Science,4,67,15,71,65,,Medium
+S048,23,Mechanical Engineering,2,39,5,43,49,1,Low
+S049,19,Business Administration,2,91,26,94,86,11,High
+S050,21,Data Science,4,56,10,,57,3,Medium
